@@ -1,6 +1,6 @@
 ### Olá! Eu sou Marconi de Carvalho
 
-- 👨‍💻 Atualmente estou cursando Ciencias da Computação-FAFIC
+- 👨‍💻 Atualmente estou cursando Ciências da Computação-FAFIC
 - 🚀 Estudando com foco em Desenvolvimento Web e Mobile
 - 💻 HTML, CSS, JavaScript/ Flutter
 <div align="center">
