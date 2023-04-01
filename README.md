@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente estou cursando Ciências da Computação-FAFIC
 - 🚀 Estudando com foco em Desenvolvimento Web 
-- 💻 HTML, CSS, JavaScript/ Flutter
+- 💻 Sql, Spring, React
 <div align="center">
   <a href="https://github.com/MarconiCarvalho">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarconiCarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
