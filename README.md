@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente estou cursando Ciência da Computação-FAFIC
 - 🚀 Desenvolvedor Backend 
-- 💻 SQL, Java, SpringBoot, React.JS
+- 💻 SQL, Java, Spring, React.JS
 <div align="center">
   <a href="https://github.com/MarconiCarvalho">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarconiCarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
