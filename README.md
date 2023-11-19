@@ -1,7 +1,7 @@
 ### Olá! Eu sou Marconi de Carvalho
 
-- 👨‍💻 Atualmente estou cursando Ciências da Computação-FAFIC
-- 🚀 Estudando com foco em Desenvolvimento Web 
+- 👨‍💻 Atualmente estou cursando Ciência da Computação-FAFIC
+- 🚀 Desenvolvedor Backend 
 - 💻 SQL, Java, SpringBoot, React.JS
 <div align="center">
   <a href="https://github.com/MarconiCarvalho">
