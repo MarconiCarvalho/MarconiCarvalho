@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/marconi_jr10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
   <a href = "mailto:marconi.carvalho.bcc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marconi-de-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.canva.com/design/DAF1GuaM-Hk/JnitiBl1H6Q1gMDaVjNcjw/view?utm_content=DAF1GuaM-Hk&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=editor_celebratory_first_publish" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org"></a> 
+   <a href="https://www.canva.com/design/DAF1GuaM-Hk/JnitiBl1H6Q1gMDaVjNcjw/view?utm_content=DAF1GuaM-Hk&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=editor_celebratory_first_publish" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a> 
   
  </div> 
   
